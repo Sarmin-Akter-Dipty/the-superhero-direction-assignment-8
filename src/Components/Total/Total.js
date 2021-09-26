@@ -1,7 +1,6 @@
-import './Total.css'
 
 import React from 'react';
-
+// Total calculation
 const Total = (props) => {
     const { addedFish } = props;
     let Total = 0;
@@ -13,8 +12,8 @@ const Total = (props) => {
 
     return (
         <div>
-            <h3>Total Price:{Total}</h3>
-            <h3>Name:{Name}</h3>
+            <h3 className="color">Total Price:{Total}</h3>
+            <h3 className="color">Name:{Name}</h3>
         </div>
     );
 

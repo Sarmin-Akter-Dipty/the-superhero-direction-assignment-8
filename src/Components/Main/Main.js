@@ -3,10 +3,9 @@ import React, { useEffect, useState } from 'react';
 import Fish from '../Fish/Fish';
 import Total from '../Total/Total';
 
-
+//  Api fetch 
 const Main = () => {
     const [fishes, setfishes] = useState([])
-    // console.log(fishes);
     useEffect(() => {
         fetch("./fish.json")
             .then(res => res.json())
@@ -21,6 +20,8 @@ const Main = () => {
         setAddedFish(newAddedFish);
     };
 
+    // cart design
+
     return (
         <div>
             <div className="row">
@@ -32,7 +33,7 @@ const Main = () => {
                     </div>
                 </div>
                 <div className="col-md-3">
-                    <h3>Total Added:{addedFish.length}</h3>
+                    <h3 className="color" >Total Added:{addedFish.length}</h3>
                     <Total addedFish={addedFish}></Total>
 
                 </div>

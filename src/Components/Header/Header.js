@@ -2,6 +2,8 @@ import './Header.css'
 
 import React from 'react';
 
+// Header section
+
 const Header = () => {
     return (
         <div className="bg-secondary container rounded">

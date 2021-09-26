@@ -3,10 +3,14 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
+// distructuring
+
 const Fish = (props) => {
-    // console.log(props);
     const { Name, Origin, Size, Lifespan, Price, img } = props.fish;
     const element = <FontAwesomeIcon icon={faShoppingCart} />
+
+    // dynamic
+
     return (
         <div className="col-md-4">
             <div className="fish-cart">
