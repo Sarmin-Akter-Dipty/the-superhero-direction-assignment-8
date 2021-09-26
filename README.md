@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+#Site Name: Home Aquriam
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was netlified with [Create React App](https://home-aquriam.netlify.app/).
+
+About the site
+1.Fish ecommerce site
+2.Best fish in cheaper rate
+3.24 hours service
 
 ## Available Scripts
 
