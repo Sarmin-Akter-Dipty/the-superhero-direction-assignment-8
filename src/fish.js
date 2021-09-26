@@ -5,7 +5,7 @@ const fish = [
         Size: '8 - 13 cm or longer',
         Lifespan: '10 - 30 years',
         Price: 300,
-        img: 'https://pixabay.com/photos/underwater-aquarium-fish-goldfish-3154726/'
+        img: 'https://pixabay.com/photos/underwater-aquarium-fish-goldfish-3154726/.jpg'
     },
     {
         Name: 'Betta fish',
@@ -13,7 +13,7 @@ const fish = [
         Size: '33 cm',
         Lifespan: '10-13 years',
         price: 500,
-        img: 'https://pixabay.com/photos/fish-underwater-red-betta-2587058/'
+        img: 'https://pixabay.com/photos/fish-underwater-red-betta-2587058/.jpg'
     },
     {
         Name: 'Angel fish',
@@ -21,7 +21,7 @@ const fish = [
         Size: '15 cm',
         Lifespan: '8-10 years',
         price: 100,
-        img: 'https://pixabay.com/photos/fishes-under-water-angel-fish-3633636/'
+        img: 'https://pixabay.com/photos/fishes-under-water-angel-fish-3633636/.jpg'
 
     },
 
@@ -31,7 +31,7 @@ const fish = [
         Size: '10 - 30 cm',
         Lifespan: '8 - 10 years',
         Price: 300,
-        img: 'https://pixabay.com/photos/fish-dalmatian-molly-fins-aquatic-6195322/'
+        img: 'https://pixabay.com/photos/fish-dalmatian-molly-fins-aquatic-6195322/.jpg'
     },
     {
         Name: 'Black Moor',
@@ -39,7 +39,7 @@ const fish = [
         Size: '10 - 30 cm',
         Lifespan: '8 - 10 years',
         Price: 200,
-        img: 'https://pixabay.com/photos/black-moor-goldfish-aquarium-fish-6357685/'
+        img: 'https://pixabay.com/photos/black-moor-goldfish-aquarium-fish-6357685/.jpg'
     },
     {
         Name: 'Assorted Koi Carp',
@@ -47,7 +47,7 @@ const fish = [
         Size: '100 cm',
         Lifespan: '10 years or longer',
         Price: 3000,
-        img: 'https://pixabay.com/illustrations/koi-icon-koi-icon-carp-fish-5568967/'
+        img: 'https://cdn.pixabay.com/photo/2020/09/13/18/00/koi-5568971_960_720.png'
     },
     {
         Name: 'Gappy fish',

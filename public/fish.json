@@ -5,23 +5,23 @@
         "Size": "8 - 13 cm or longer",
         "Lifespan": "10 - 30 years",
         "Price": 300,
-        "img": "https://pixabay.com/photos/underwater-aquarium-fish-goldfish-3154726/"
+        "img": "https://cdn.pixabay.com/photo/2018/02/15/09/12/underwater-3154726_960_720.jpg"
     },
     {
         "Name": "Betta fish",
         "Origin": "Amazon",
         "Size": "33 cm",
         "Lifespan": "10-13 years",
-        "price": 500,
-        "img": "https://pixabay.com/photos/fish-underwater-red-betta-2587058/"
+        "Price": 500,
+        "img": "https://cdn.pixabay.com/photo/2017/08/06/00/26/fish-2587058_960_720.jpg"
     },
     {
         "Name": "Angel fish",
         "Origin": "Amazon River",
         "Size": "15 cm",
         "Lifespan": "8-10 years",
-        "price": 100,
-        "img": "https://pixabay.com/photos/fishes-under-water-angel-fish-3633636/"
+        "Price": 100,
+        "img": "https://cdn.pixabay.com/photo/2018/08/26/23/24/fishes-3633636_960_720.jpg"
     },
     {
         "Name": "molly fish",
@@ -29,7 +29,7 @@
         "Size": "10 - 30 cm",
         "Lifespan": "8 - 10 years",
         "Price": 300,
-        "img": "https://pixabay.com/photos/fish-dalmatian-molly-fins-aquatic-6195322/"
+        "img": "https://cdn.pixabay.com/photo/2021/04/21/03/32/fish-6195322_960_720.jpg"
     },
     {
         "Name": "Black Moor",
@@ -37,7 +37,7 @@
         "Size": "10 - 30 cm",
         "Lifespan": "8 - 10 years",
         "Price": 200,
-        "img": "https://pixabay.com/photos/black-moor-goldfish-aquarium-fish-6357685/"
+        "img": "https://cdn.pixabay.com/photo/2021/06/23/03/50/black-moor-6357685_960_720.jpg"
     },
     {
         "Name": "Assorted Koi Carp",
@@ -45,7 +45,7 @@
         "Size": "100 cm",
         "Lifespan": "10 years or longer",
         "Price": 3000,
-        "img": "https://pixabay.com/illustrations/koi-icon-koi-icon-carp-fish-5568967/"
+        "img": "https://cdn.pixabay.com/photo/2016/04/01/00/31/brocade-carp-1298230_960_720.jpg"
     },
     {
         "Name": "Gappy fish",
@@ -60,7 +60,7 @@
         "Size": "10 - 20 cm",
         "Lifespan": "8 - 10 years",
         "Price": 150,
-        "img": "https://pixabay.com/photos/fish-exotic-animal-zebra-aquarium-1178813/"
+        "img": "https://cdn.pixabay.com/photo/2016/02/04/09/37/fish-1178813_960_720.jpg"
     },
     {
         "Name": "Neon Tetra fish",
@@ -68,6 +68,6 @@
         "Size": "2.2 cm",
         "Lifespan": "5-8 years",
         "Price": 250,
-        "img": "https://pixabay.com/photos/neon-tetra-fish-underwater-animal-6015626/"
+        "img": "https://cdn.pixabay.com/photo/2021/02/14/19/49/neon-tetra-6015626_960_720.jpg"
     }
 ]
